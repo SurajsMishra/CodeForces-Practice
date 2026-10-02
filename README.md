@@ -6,14 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 3 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
+- [math](#math) (1)
 
 ---
 
@@ -23,11 +26,29 @@
 |---|---------|------------|----------|
 | 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | Unrated | [Java 8](https://github.com/SurajsMishra/CodeForces-Practice/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.java) |
 
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2268F | [Deglado](https://codeforces.com/contest/2268/problem/F) | 3500 | [Python 3](https://github.com/SurajsMishra/CodeForces-Practice/blob/HEAD/2268/F%20-%20Deglado/solution.py) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | Unrated | [Python 3](https://github.com/SurajsMishra/CodeForces-Practice/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.py) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | Unrated | [Java 8](https://github.com/SurajsMishra/CodeForces-Practice/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.java) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | Unrated | [Python 3](https://github.com/SurajsMishra/CodeForces-Practice/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.py) |
 
 ---
 
