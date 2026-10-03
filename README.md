@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 5 |
+| 4 | 6 |
 
 ---
 
@@ -14,9 +14,10 @@
 
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [implementation](#implementation) (1)
 - [math](#math) (1)
+- [strings](#strings) (1)
 
 ---
 
@@ -36,6 +37,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | 800 | [Python 3](https://github.com/SurajsMishra/CodeForces-Practice/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.py) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | Unrated | [Python 3](https://github.com/SurajsMishra/CodeForces-Practice/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.py) |
 
 ### implementation
@@ -49,6 +51,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | Unrated | [Python 3](https://github.com/SurajsMishra/CodeForces-Practice/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.py) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | 800 | [Python 3](https://github.com/SurajsMishra/CodeForces-Practice/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.py) |
 
 ---
 
